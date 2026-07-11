@@ -91,7 +91,7 @@ const WhyChooseUs = () => {
       title: 'Customer Satisfaction',
       description: 'Customer satisfaction is our top priority. We focus on delivering reliable, efficient, and hassle-free services.',
       buttonText: 'WHATSAPP NOW',
-      buttonLink: 'https://wa.me/919376270777',
+      buttonLink: 'https://wa.me/917820015001',
       buttonColor: 'green'
     }
   ];

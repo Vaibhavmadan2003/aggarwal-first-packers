@@ -208,7 +208,7 @@ const Gallery = () => {
                 📞 Call Now: +91 93762 70777
               </a>
               <a
-                href="https://wa.me/919376270777"
+                href="https://wa.me/917820015001"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-green-600 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-1"

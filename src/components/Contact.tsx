@@ -280,7 +280,7 @@ const Contact = () => {
                   </a>
                   
                   <a
-                    href="https://wa.me/919376270777"
+                    href="https://wa.me/917820015001"
                     className="flex items-center justify-center w-full bg-green-600 text-white py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
                   >
                     💬 WhatsApp Chat

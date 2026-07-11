@@ -36,7 +36,7 @@ const FloatingButtons = () => {
       {/* Floating WhatsApp Button */}
       <div className="fixed right-4 bottom-20 z-50">
         <a
-          href="https://wa.me/919376270777?text=Hi, I need help with packers and movers service"
+          href="https://wa.me/917820015001?text=Hi, I need help with packers and movers service"
           target="_blank"
           rel="noopener noreferrer"
           className={`flex items-center justify-center w-14 h-14 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-700 transition-all duration-300 transform hover:scale-110 animate-bounce-custom ${
@@ -73,7 +73,7 @@ const FloatingButtons = () => {
           </a>
           
           <a
-            href="https://wa.me/919376270777"
+            href="https://wa.me/917820015001"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center justify-center py-3 px-2 text-green-600 hover:bg-green-50 rounded-lg transition-colors"

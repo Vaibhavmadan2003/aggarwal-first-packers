@@ -94,7 +94,7 @@ const Hero = () => {
                 📞 CALL NOW BOOKING
               </a>
               <a
-                href="https://wa.me/919376270777"
+                href="https://wa.me/917820015001"
                 className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center"
               >
                 💬 WHATSAPP NOW

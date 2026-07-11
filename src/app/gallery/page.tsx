@@ -25,13 +25,13 @@ export default function GalleryPage() {
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919376270777"
+              href="tel:+917820015001"
               className="bg-white text-blue-600 px-8 py-3 rounded-full font-bold hover:bg-gray-100 transition-colors"
             >
               📞 Call Now: +91 93762 70777
             </a>
             <a
-              href="https://wa.me/919376270777"
+              href="https://wa.me/917820015001"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 text-white px-8 py-3 rounded-full font-bold hover:bg-green-600 transition-colors"

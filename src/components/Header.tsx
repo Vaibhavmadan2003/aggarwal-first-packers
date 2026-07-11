@@ -128,7 +128,7 @@ const Header = () => {
                   Call Now
                 </a>
                 <a
-                  href="https://wa.me/919376270777"
+                  href="https://wa.me/917820015001"
                   className="bg-green-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-green-700 transition-colors"
                 >
                   WhatsApp
@@ -184,7 +184,7 @@ const Header = () => {
                     Call Now
                   </a>
                   <a
-                    href="https://wa.me/919376270777"
+                    href="https://wa.me/917820015001"
                     className="bg-green-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-green-700 transition-colors text-center"
                   >
                     WhatsApp
