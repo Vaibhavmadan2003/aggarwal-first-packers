@@ -72,7 +72,7 @@ const Footer = () => {
                 <span>Call Center 24/7</span>
               </div>
               <div className="text-2xl font-bold text-blue-400">
-                +91 93762 70777
+                +91 7820015001
               </div>
             </div>
           </div>
@@ -163,7 +163,7 @@ const Footer = () => {
                     href="tel:+917820015001" 
                     className="hover:text-blue-400 transition-colors block"
                   >
-                    +91 93762 70777
+                    +91 7820015001
                   </a>
                 </div>
               </div>

@@ -34,7 +34,7 @@ const Header = () => {
       <div className="bg-blue-600 text-white py-2 text-sm">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center space-x-4">
-            <span>📞 +91 93762 70777</span>
+            <span>📞 +91 7820015001</span>
             <span className="hidden md:block">📧 agarwalcarepm@gmail.com</span>
           </div>
           <div className="flex items-center space-x-4">
